@@ -1,0 +1,14 @@
+/cfg/
+/.idea/
+/__pycache__/
+test_function.py
+/log/
+/uwsgi/
+uwsgi.ini
+/Update/
+/static/
+/AIR/model/
+/AIR/__pycache__/
+/ASR/__pycache__/
+/db_operator/__pycache__/
+/AIR/HDF5/

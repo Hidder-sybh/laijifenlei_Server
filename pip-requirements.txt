@@ -1,0 +1,6 @@
+pymysql
+jieba
+pillow
+flask
+tensorflow
+
